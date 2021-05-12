@@ -1,0 +1,80 @@
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #666699;
+  color: white;
+}
+
+#okay{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 8px;
+}
+
+#product{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  width: 200px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#producta{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  width: 210px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#flower{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #ff9933;
+  width: 215px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+
+#coffee{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #9933ff;
+  width: 240px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ddd;
+  padding: 8px;
+}

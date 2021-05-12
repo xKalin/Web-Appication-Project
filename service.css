@@ -1,0 +1,15 @@
+a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px;
+  height: 70px;
+  text-decoration: none;
+  font-size: 22px;
+   font-family:helvetica
+}
+
+
+a:hover{
+  text-decoration:underline;
+}
